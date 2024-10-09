@@ -12,4 +12,5 @@ reducers for functionality and Properties with state and Actions as Parameter wh
 
 We have EXPORT reducer as const with "<SliceVariableName>.action"
 We have EXPORT reducer as default with "<SliceVariableName>.reducer"
-Manoj
+
+
