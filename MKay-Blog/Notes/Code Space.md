@@ -61,4 +61,6 @@ Map are like normal hashmap, it is no repeated Key, But value can same in multip
 
 # forOf and forIn
 forOf syntax: for( const iterator of map)
-forIn syntax: for( const iterator in myObj)
+forIn syntax: for( const iterator in myObject 
+In forIn myObject can an object as well an Array
+
