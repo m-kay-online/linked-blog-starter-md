@@ -54,5 +54,7 @@ dispatch(addTodo(input))
 
 ```
 forEach function has three parameters
-Three Parameters are EachItem
+Three Parameters are EachItem, Index, CompleteArr
 ```
+
+Map are like normal hashmap, it is no repeated Key, But value 
