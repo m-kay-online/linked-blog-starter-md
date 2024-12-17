@@ -53,5 +53,6 @@ dispatch(addTodo(input))
 # forEach
 
 ```
-forEach function has three
+forEach function has three parameters
+Three Parameters are EachItem
 ```
