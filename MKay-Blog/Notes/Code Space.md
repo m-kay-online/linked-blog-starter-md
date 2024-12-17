@@ -60,4 +60,5 @@ Three Parameters are EachItem, Index, CompleteArr
 Map are like normal hashmap, it is no repeated Key, But value can same in multiple indexes or keys. 
 
 # forOf and forIn
-forOf syntax: for( cos)
+forOf syntax: for( const iterator of map)
+forIn syntax: for( const iterator in myObj)
