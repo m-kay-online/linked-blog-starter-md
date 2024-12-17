@@ -57,4 +57,5 @@ forEach function has three parameters
 Three Parameters are EachItem, Index, CompleteArr
 ```
 
-Map are like normal hashmap, it is no repeated Key, But value 
+Map are like normal hashmap, it is no repeated Key, But value can same in multiple indexes or keys. 
+
