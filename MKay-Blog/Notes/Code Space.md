@@ -64,3 +64,4 @@ forOf syntax: for( const iterator of map)
 forIn syntax: for( const iterator in myObject 
 In forIn myObject can an object as well an Array
 
+# We can use forIn for Map. But, We have to use forIn loop for Object and Arrays.
