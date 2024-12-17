@@ -48,3 +48,10 @@ const dispatch = useDispatch()
 dispatch(addTodo(input))
 
 ```
+
+
+# forEach
+
+```
+forEach function has three
+```
