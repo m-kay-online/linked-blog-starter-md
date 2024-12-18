@@ -64,5 +64,7 @@ forOf syntax: for( const iterator of map)
 forIn syntax: for( const iterator in myObject 
 In forIn myObject can an object as well an Array
 
-# We can use forIn for Map. But, We have to use forIn loop for Object and Arrays.
+<h4> We can use forIn for Map. But, We have to use forIn loop for Object and Arrays. </h4>
+<h1>Promise</h1>
+<h4> A Promise can be resolved Only Once. There is no clear way to resolve a Promise Multiple Times.</h4>
 
